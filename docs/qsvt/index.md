@@ -1,4 +1,4 @@
-# Summer Momoi
+# 量子特異値変換
 
 ```{toctree}
 :maxdepth: 2

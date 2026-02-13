@@ -31,11 +31,15 @@ myst_enable_extensions = [
     "html_image",
     "dollarmath",
     "amsmath",
+    "linkify",
 ]
 # 二重のドルマークを有効にする
 myst_dmath_double_inline = True
 # Let ```math fenced blocks behave like the {math} directive.
 myst_fence_as_directive = ["math"]
+# リンクを別タブで開く
+myst_links_external_new_tab = True
+
 
 # MathJax v3 を明示（安全策）
 mathjax_path = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"

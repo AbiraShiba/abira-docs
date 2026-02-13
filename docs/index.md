@@ -15,5 +15,5 @@ fundamentals/index
 ```{toctree}
 :maxdepth: 1
 
-summer-momoi/index
+qsvt/index
 ```
