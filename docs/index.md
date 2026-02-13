@@ -11,9 +11,9 @@
 fundamentals/index
 ```
 
-モモイの可愛さを知ってほしい
+量子特異値変換の勉強用メモ
 ```{toctree}
 :maxdepth: 1
 
-qsvt/index
+quantum/index
 ```

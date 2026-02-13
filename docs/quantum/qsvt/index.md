@@ -4,5 +4,6 @@
 :maxdepth: 2
 :glob:
 
-chap01/*
+src/introduction
+src/qst
 ```
